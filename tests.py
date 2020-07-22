@@ -1,4 +1,4 @@
-from echo_client import client
+from echo_client import *
 import socket
 import unittest
 
